@@ -2,6 +2,9 @@
 
 """ 
 is-defense.py: Verifies if thesis defense date has changed on PeiPal page
+
+geckodriver from FireFox is required for this script to work
+
 """
 __author__  = "Pedro Barreiros"
 __email__   = "pxcodename6@gmail.com"
